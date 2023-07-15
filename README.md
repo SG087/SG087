@@ -2,7 +2,7 @@
 
 ## I'm Java Developer
 
-### Languages and Tools
+### Языки и Инструменты
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring&logoColor=00FF00)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate)
@@ -17,7 +17,7 @@
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 
-### Socials:
+### Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SG_087)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergey-gasumyan/)
 
