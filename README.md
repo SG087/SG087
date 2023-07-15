@@ -1,4 +1,4 @@
-![Header](https://github.com/SG087/SG087/blob/main/assets/wallpaperflare-cropped.jpg)
+![Header](https://github.com/SG087/SG087/blob/main/assets/6142106.jpg)
 
 ## I'm Java Developer
 
