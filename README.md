@@ -16,12 +16,12 @@
 ![Swagger](https://img.shields.io/badge/-swagger-090909?style=for-the-badge&logo=swagger)
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
-
+---
 ### Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SG_087)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergey-gasumyan/)
-
+---
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/Sergey_550_/badges/large)
-
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG087&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
