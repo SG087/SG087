@@ -17,4 +17,6 @@
 ![Postman](https://img.shields.io/badge/-postman-090909?style=for-the-badge&logo=postman)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 
-Follow Me
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/SG_087)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/sergey-gasumyan/)
