@@ -1,4 +1,4 @@
-![Header](https://github.com/SG087/SG087/blob/main/assets/6142106.jpg)
+![Header](https://github.com/SG087/SG087/blob/main/assets/Blue%20%26%20Black%20Modern%20Technology%20LinkedIn%20Banner.png)
 
 ## I'm Java Developer
 
