@@ -24,4 +24,7 @@
 ### 💻 Codewars:
 ![codewars](https://www.codewars.com/users/Sergey_550_/badges/large)
 ---
+### Статистика GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SG087&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SG087&theme=tokyonight)](https://git.io/streak-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SG087&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
