@@ -1,6 +1,6 @@
 ![Header](https://github.com/SG087/SG087/blob/main/assets/wallpaperflare-cropped.jpg)
 
-About me
+## I'm Java Developer
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge)
